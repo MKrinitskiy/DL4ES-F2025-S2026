@@ -16,11 +16,14 @@ Deep Learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://sai
 | ----- | ---- | ----- | ------- |
 |       |      | I семестр |    |
 | Лекция 1 | 09.09.2025 | Основы нейросетевых моделей в машинном обучении: повторение. |  |
-| Лекция 2 | 23.09.2025 | Градиентная оптимизация: метод градиентного спуска | [видеозапись](https://ml4es.ru/links/2025-09-23-DL4ES2025-Lect02) |
-| Лекция 3 | 30.09.2025 | Градиентная оптимизация: метод стохастического градиентного спуска | [видеозапись](https://ml4es.ru/links/2025-09-30-DL4ES2025-Lect03) |
-| Лекция 4 | 08.10.2025 | Автоматическое вычисление градиентов.<br />Метод обратного распространения ошибки. | [видеозапись](https://ml4es.ru/links/2025-10-07-DL4ES2025-Lect04) |
+| Лекция 2 | 23.09.2025 | Градиентная оптимизация: метод градиентного спуска | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2025-09-23-DL4ES2025-Lect02) |
+| Лекция 3 | 30.09.2025 | Градиентная оптимизация: метод стохастического градиентного спуска | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2025-09-30-DL4ES2025-Lect03) |
+| Лекция 4 | 08.10.2025 | Автоматическое вычисление градиентов.<br />Метод обратного распространения ошибки. | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2025-10-07-DL4ES2025-Lect04) |
 | ДЗ №1 | 14.10.2025<br />deadline: **28.10.2025** | Оптимизация линейной регрессии методом градиентного спуска с автоматическим вычислением градиентов функции потерь по методу обратного распространения ошибки. | [условие и данные](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/HW01)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/blob/main/HW01/leaderboard.md) |
-| Лекция 5 | 14.10.2025 | Разбор ДЗ №1 | [видеозапись](https://ml4es.ru/links/2025-10-14-DL4ES2025-Lect05) |
+| Лекция 5 | 14.10.2025 | Разбор ДЗ №1 | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect05)<br />[видеозапись](https://ml4es.ru/links/2025-10-14-DL4ES2025-Lect05) |
+| Занятие 6 | 21.10.2025 | Практическое построение и обучение нейросетей в PyTorch | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2025-10-21-DL4ES2025-Lect06) |
+| Занятия 7 | 11.11.2025 | Практическое занятие: создание и обучение нейросетей в PyTorch (продолжение) | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect07)<br />[видеозапись](https://ml4es.ru/links/2025-11-11-DL4ES2025-Lect07) |
+| ДЗ №2 | 18.11.2025<br />deadline: **09.12.2025** | Создание и оптимизация многослойного перцептрона | [условие и данные](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/HW02)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/blob/main/HW02/leaderboard.md) |
 
 
 
