@@ -27,6 +27,8 @@ Deep Learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://sai
 | Занятие 8 | 18.11.2025 | Tensorboard: мониторинг обучения нейросетей | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect08)<br />[видеозапись](https://ml4es.ru/links/2025-11-18-DL4ES2025-Lect08) |
 | Лекция 9 | 25.11.2025 | Распределение скрытых представлений и шум в оптимизации нейросетей<br />Импульсный метод (momentum) | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect09)<br />[видеозапись](https://ml4es.ru/links/2025-11-25-DL4ES2025-Lect09) |
 | ДЗ №3 | 25.11.2025<br />дедлайн: **09.12.2025** | Регистрация распределений скрытых представлений в TensorBoard | [условие](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/HW03)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/blob/main/HW03/leaderboard.md) |
+| Лекция 10 | 02.12.2025 |  |  |
+| Лекция 11 | 09.12.2025 |  |  |
 
 
 
