@@ -29,8 +29,10 @@ Deep Learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://sai
 | ДЗ №3 | 25.11.2025<br />дедлайн: **09.12.2025** | Регистрация распределений скрытых представлений в TensorBoard | [условие](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/HW03)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/blob/main/HW03/leaderboard.md) |
 | Лекция 10 | 02.12.2025 |  |  |
 | Лекция 11 | 09.12.2025 |  |  |
-
-
+| Лекция 12 |  | | |
+| Лекция 13 | 24.02.2026 | Функции активации - ч. 1 | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect13)<br />[видеозапись](https://ml4es.ru/links/2026-02-24-DL4ES2025-Lect13) |
+| Лекция 14 | 03.03.2026 | Функции активации - ч. 2 | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect14)<br />[видеозапись](https://ml4es.ru/links/2026-03-03-DL4ES2025-Lect14) |
+| Лекция 15 | 10.03.2026 | Свёрточные нейронные сети |  |
 
 ### Рекомендуемая литература
 
