@@ -32,6 +32,7 @@ Deep Learning for Earth Sciences F2025-S2026 by [Mikhail Krinitskiy](https://sai
 | Лекция 12 | 17.02.2026 | Recap | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect12)<br />[видеозапись](https://ml4es.ru/links/2026-02-17-DL4ES2025-Lect12) |
 | Лекция 13 | 24.02.2026 | Функции активации - ч. 1 | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect13)<br />[видеозапись](https://ml4es.ru/links/2026-02-24-DL4ES2025-Lect13) |
 | Лекция 14 | 03.03.2026 | Функции активации - ч. 2 | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect14)<br />[видеозапись](https://ml4es.ru/links/2026-03-03-DL4ES2025-Lect14) |
+| ДЗ №4 | 03.03.2026<br />дедлайн: **17.03.2026** | Анализ функций активации | [условие](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/HW04)<br />[leaderboard](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/blob/main/HW04/leaderboard.md) |
 | Лекция 15 | 10.03.2026 | Обработка двумерных данных.<br />Стандартные коллекции визуальных данных.<br />Обоснование выбора новых архитектур и операций в искусственных нейронных сетях. | [материалы](https://github.com/MKrinitskiy/DL4ES-F2025-S2026/tree/main/Lect15)<br />[видеозапись](https://ml4es.ru/links/2026-03-10-DL4ES2025-Lect15) |
 
 ### Рекомендуемая литература
